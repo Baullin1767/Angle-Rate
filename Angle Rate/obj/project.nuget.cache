@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "L0+0oauhurFQW6f74QE5sLcCkkaR07NDUUr91OQ8qk/cfAYERdloo0ZOevtgGt4ZVSj4P/ZSQ28BpRH94sIR0Q==",
+  "success": true,
+  "projectFilePath": "C:\\CSharpProject\\Angle Rate\\Angle Rate\\Angle Rate.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alexs\\.nuget\\packages\\oxyplot.core\\2.1.2\\oxyplot.core.2.1.2.nupkg.sha512",
+    "C:\\Users\\alexs\\.nuget\\packages\\oxyplot.wpf\\2.1.2\\oxyplot.wpf.2.1.2.nupkg.sha512",
+    "C:\\Users\\alexs\\.nuget\\packages\\oxyplot.wpf.shared\\2.1.2\\oxyplot.wpf.shared.2.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
